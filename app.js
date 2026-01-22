@@ -7,8 +7,12 @@ campo.innerHTML = texto; // Para diminuir a repetição de código.
 
 }
 
-exibirTextoNaTela('h1', 'Jogo do número secreto');
+function exibirMensagemInicial() {
+    exibirTextoNaTela('h1', 'Jogo do número secreto');
 exibirTextoNaTela('p', 'Escolha um número entre 1 e 10');
+}
+
+exibirMensagemInicial();
 
 function verificarChute() {
     let chute = document.querySelector('input').value; // <- valor do input
@@ -37,3 +41,11 @@ function limparCampo() { // limpa o campo do input após cada tentativa
     chute = document.querySelector('input'); 
     chute.value = '';
 }
+
+function reiniciarJogo() {
+    numeroSecreto = gerarNumeroAletario();
+    limparCampo();
+    tentativas = 1;
+    exibirMensagemInicial();
+    document.getElementById('reiniciar').setAttribute('disabled', true); // desabilita o botão após reiniciar o jogo
+} 
