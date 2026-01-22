@@ -1,0 +1,6 @@
+2025/09/30-12:36:30.722 76e8 Creating DB C:\Users\muril\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_br.linkedin.com_0.indexeddb.leveldb since it was missing.
+2025/09/30-12:36:30.729 76e8 Reusing MANIFEST C:\Users\muril\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_br.linkedin.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/30-12:36:34.261 7e7c Level-0 table #5: started
+2025/09/30-12:36:34.263 7e7c Level-0 table #5: 1194 bytes OK
+2025/09/30-12:36:34.265 7e7c Delete type=0 #3
+2025/09/30-12:36:34.266 7e7c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

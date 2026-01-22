@@ -1,0 +1,18 @@
+2025/10/30-14:02:41.342 62a8 Reusing MANIFEST C:\Users\muril\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/10/30-14:02:41.344 62a8 Recovering log #28
+2025/10/30-14:02:41.405 62a8 Reusing old log C:\Users\muril\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_mail.google.com_0.indexeddb.leveldb/000028.log 
+2025/10/30-14:02:42.855 447c Compacting 1@1 + 1@2 files
+2025/10/30-14:02:42.866 447c Generated table #31@1: 207 keys, 964361 bytes
+2025/10/30-14:02:42.866 447c Compacted 1@1 + 1@2 files => 964361 bytes
+2025/10/30-14:02:42.867 447c compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/10/30-14:02:42.867 447c Delete type=2 #27
+2025/10/30-14:02:42.867 447c Delete type=2 #29
+2025/10/30-14:02:45.778 62a8 Level-0 table #33: started
+2025/10/30-14:02:45.798 62a8 Level-0 table #33: 3233323 bytes OK
+2025/10/30-14:02:45.799 62a8 Delete type=0 #28
+2025/10/30-14:02:59.477 447c Compacting 1@1 + 1@2 files
+2025/10/30-14:02:59.505 447c Generated table #34@1: 173 keys, 712358 bytes
+2025/10/30-14:02:59.506 447c Compacted 1@1 + 1@2 files => 712358 bytes
+2025/10/30-14:02:59.507 447c compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/10/30-14:02:59.516 447c Delete type=2 #31
+2025/10/30-14:02:59.519 447c Delete type=2 #33

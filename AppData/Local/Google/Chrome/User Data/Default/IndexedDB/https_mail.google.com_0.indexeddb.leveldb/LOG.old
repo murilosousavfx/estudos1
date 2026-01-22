@@ -1,0 +1,12 @@
+2025/09/30-11:56:40.437 76e8 Reusing MANIFEST C:\Users\muril\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/30-11:56:40.439 76e8 Recovering log #24
+2025/09/30-11:56:40.449 76e8 Reusing old log C:\Users\muril\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_mail.google.com_0.indexeddb.leveldb/000024.log 
+2025/09/30-11:56:42.479 7e7c Compacting 1@1 + 1@2 files
+2025/09/30-11:56:42.495 7e7c Generated table #27@1: 131 keys, 399389 bytes
+2025/09/30-11:56:42.495 7e7c Compacted 1@1 + 1@2 files => 399389 bytes
+2025/09/30-11:56:42.495 7e7c compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/09/30-11:56:42.496 7e7c Delete type=2 #22
+2025/09/30-11:56:42.496 7e7c Delete type=2 #25
+2025/09/30-11:56:50.342 7e7c Level-0 table #29: started
+2025/09/30-11:56:50.378 7e7c Level-0 table #29: 3238753 bytes OK
+2025/09/30-11:56:50.379 7e7c Delete type=0 #24

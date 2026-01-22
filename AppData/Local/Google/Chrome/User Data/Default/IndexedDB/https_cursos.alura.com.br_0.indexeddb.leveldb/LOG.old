@@ -1,0 +1,7 @@
+2026/01/19-09:16:55.966 2d08 Reusing MANIFEST C:\Users\muril\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_cursos.alura.com.br_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/19-09:16:55.966 2d08 Recovering log #3
+2026/01/19-09:16:55.971 2d08 Reusing old log C:\Users\muril\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_cursos.alura.com.br_0.indexeddb.leveldb/000003.log 
+2026/01/19-09:17:00.909 1b40 Level-0 table #5: started
+2026/01/19-09:17:00.911 1b40 Level-0 table #5: 1758 bytes OK
+2026/01/19-09:17:00.912 1b40 Delete type=0 #3
+2026/01/19-09:17:00.913 1b40 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

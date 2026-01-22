@@ -1,0 +1,10 @@
+2026/01/19-09:57:41.650 1b40 Creating DB C:\Users\muril\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_push.getbeamer.com_0.indexeddb.leveldb since it was missing.
+2026/01/19-09:57:41.661 1b40 Reusing MANIFEST C:\Users\muril\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_push.getbeamer.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/19-09:57:41.680 2d98 Level-0 table #5: started
+2026/01/19-09:57:41.684 2d98 Level-0 table #5: 1281 bytes OK
+2026/01/19-09:57:41.688 2d98 Delete type=0 #3
+2026/01/19-09:57:41.689 1b40 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/01/19-09:57:41.891 2d98 Level-0 table #7: started
+2026/01/19-09:57:41.896 2d98 Level-0 table #7: 1905 bytes OK
+2026/01/19-09:57:41.901 2d98 Delete type=0 #4
+2026/01/19-09:57:41.902 1b40 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

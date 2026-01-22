@@ -1,0 +1,28 @@
+2025/11/03-15:34:56.571 629c Reusing MANIFEST C:\Users\muril\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.canva.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/03-15:34:56.572 629c Recovering log #7
+2025/11/03-15:34:56.593 629c Reusing old log C:\Users\muril\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.canva.com_0.indexeddb.leveldb/000007.log 
+2025/11/03-15:35:11.648 629c Level-0 table #12: started
+2025/11/03-15:35:11.691 629c Level-0 table #12: 2220964 bytes OK
+2025/11/03-15:35:11.695 629c Delete type=0 #7
+2025/11/03-15:35:14.580 2230 Compacting 1@1 + 1@2 files
+2025/11/03-15:35:14.608 2230 Generated table #13@1: 1413 keys, 118222 bytes
+2025/11/03-15:35:14.608 2230 Compacted 1@1 + 1@2 files => 118222 bytes
+2025/11/03-15:35:14.611 2230 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/03-15:35:14.612 2230 Delete type=2 #9
+2025/11/03-15:35:14.612 2230 Delete type=2 #12
+2025/11/03-15:35:29.670 6670 Level-0 table #15: started
+2025/11/03-15:35:29.702 6670 Level-0 table #15: 884815 bytes OK
+2025/11/03-15:35:29.704 6670 Delete type=0 #11
+2025/11/03-15:35:29.936 5cc4 Compacting 1@1 + 1@2 files
+2025/11/03-15:35:29.975 5cc4 Generated table #16@1: 8653 keys, 445420 bytes
+2025/11/03-15:35:29.975 5cc4 Compacted 1@1 + 1@2 files => 445420 bytes
+2025/11/03-15:35:29.976 5cc4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/03-15:35:29.977 5cc4 Delete type=2 #13
+2025/11/03-15:35:29.977 5cc4 Delete type=2 #15
+2025/11/03-15:35:46.958 629c Level-0 table #18: started
+2025/11/03-15:35:46.993 629c Level-0 table #18: 878181 bytes OK
+2025/11/03-15:35:46.994 629c Delete type=0 #14
+2025/11/03-15:35:47.144 2230 Compacting 1@1 + 1@2 files
+2025/11/03-15:35:47.199 2230 Generated table #19@1: 15843 keys, 802724 bytes
+2025/11/03-15:35:47.199 2230 Compacted 1@1 + 1@2 files => 802724 bytes
+2025/11/03-15:35:47.200 2230 compacted to: files[ 0 0 1 0 0 0 0 ]

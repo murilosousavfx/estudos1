@@ -1,0 +1,13 @@
+2026/01/19-07:58:36.034 1b40 Reusing MANIFEST C:\Users\muril\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.notion.so_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/19-07:58:36.036 1b40 Recovering log #155
+2026/01/19-07:58:36.039 1b40 Reusing old log C:\Users\muril\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.notion.so_0.indexeddb.leveldb/000155.log 
+2026/01/19-07:58:40.850 2d08 Level-0 table #160: started
+2026/01/19-07:58:40.854 2d08 Level-0 table #160: 46516 bytes OK
+2026/01/19-07:58:40.856 2d08 Delete type=0 #155
+2026/01/19-07:58:40.857 2d08 Manual compaction at level-0 from '\x00%\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00&\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/01/19-09:29:15.410 1b40 Compacting 1@1 + 1@2 files
+2026/01/19-09:29:15.457 1b40 Generated table #161@1: 34848 keys, 1257441 bytes
+2026/01/19-09:29:15.458 1b40 Compacted 1@1 + 1@2 files => 1257441 bytes
+2026/01/19-09:29:15.458 1b40 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/19-09:29:15.459 1b40 Delete type=2 #157
+2026/01/19-09:29:15.459 1b40 Delete type=2 #160

@@ -1,0 +1,15 @@
+2026/01/22-07:49:59.229 998 Reusing MANIFEST C:\Users\muril\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_cursos.alura.com.br_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/22-07:49:59.232 998 Recovering log #4
+2026/01/22-07:49:59.232 998 Reusing old log C:\Users\muril\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_cursos.alura.com.br_0.indexeddb.leveldb/000004.log 
+2026/01/22-07:50:40.904 980 Level-0 table #8: started
+2026/01/22-07:50:40.908 980 Level-0 table #8: 548 bytes OK
+2026/01/22-07:50:40.910 980 Delete type=0 #4
+2026/01/22-07:50:40.910 980 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/01/22-07:50:40.911 980 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x03\x00\x00\x00\xf7\xad\xcaGB' @ 121 : 1
+2026/01/22-07:50:40.911 980 Compacting 1@1 + 1@2 files
+2026/01/22-07:50:40.914 980 Generated table #9@1: 43 keys, 984 bytes
+2026/01/22-07:50:40.914 980 Compacted 1@1 + 1@2 files => 984 bytes
+2026/01/22-07:50:40.915 980 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/22-07:50:40.916 980 Delete type=2 #5
+2026/01/22-07:50:40.916 980 Delete type=2 #8
+2026/01/22-07:50:40.917 980 Manual compaction at level-1 from '\x00\x02\x01\x02\x03\x00\x00\x00\xf7\xad\xcaGB' @ 121 : 1 .. (end); will stop at (end)
