@@ -17,6 +17,7 @@ function verificarChute() {
         let palavraTentativas = tentativas > 1 ? 'tentativas' : 'tentativa';
         let mensagemTentativas = `Você acertou o número secreto ${numeroSecreto} em ${tentativas} ${palavraTentativas}`;
         exibirTextoNaTela('p', mensagemTentativas);
+        document.getElementById('reiniciar').removeAttribute('disabled'); // seleciona o botão e habilita o botão após acertar
     } else {
         if (chute > numeroSecreto) {
             exibirTextoNaTela('p', 'O número secreto é menor! Tente novamente.');
@@ -24,10 +25,15 @@ function verificarChute() {
             exibirTextoNaTela('p', 'O número secreto é maior! Tente novamente.');
         }
         tentativas++;
+        limparCampo();
     }
 }
 
-
 function gerarNumeroAletario() {
    return parseInt(Math.random() * 10 + 1);
+}
+
+function limparCampo() { // limpa o campo do input após cada tentativa
+    chute = document.querySelector('input'); 
+    chute.value = '';
 }
