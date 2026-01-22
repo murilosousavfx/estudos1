@@ -1,0 +1,62 @@
+{
+	"name": "batman-theme",
+	"displayName": "The Batman theme 🦇",
+	"description": "Dark theme inspired by The Batman 🦇",
+	"version": "0.0.3",
+	"publisher": "silv4b",
+	"icon": "profile-photo.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/silv4b/batman-theme"
+	},
+	"keywords": [
+		"theme",
+		"dark theme",
+		"batman theme",
+		"batman 🦇"
+	],
+	"engines": {
+		"vscode": "^1.60.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "The Batman theme 🦇",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Batman Theme-color-theme.json"
+			}
+		]
+	},
+	"scripts": {
+		"add": "git add .",
+		"commit": "git-cz",
+		"add-commit": "npm run add && git-cz"
+	},
+	"config": {
+		"commitizen": {
+			"path": "node_modules/cz-customizable"
+		}
+	},
+	"husky": {
+		"hooks": {
+			"commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
+			"prepare-commit-msg": "exec < /dev/tty && git cz --hook || true"
+		}
+	},
+	"devDependencies": {
+		"@commitlint/cli": "^13.1.0",
+		"@commitlint/config-conventional": "^13.1.0",
+		"commitizen": "^4.2.4",
+		"cz-conventional-changelog": "3.3.0",
+		"cz-customizable": "^6.3.0",
+		"husky": "^7.0.2"
+	},
+	"__metadata": {
+		"installedTimestamp": 1749232437901,
+		"targetPlatform": "undefined",
+		"size": 61363
+	}
+}
